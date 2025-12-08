@@ -60,16 +60,12 @@
 
 ## 📖 Abstract
 
-Accurate geometry is essential for relightable 3D Gaussian splatting.  
-However, existing PBR-driven methods learn 3D properties **indirectly** from rendered 2D signals, producing imprecise normals and unstable shading.
-
-We present **COREA**, the first **unified** framework that jointly learns relightable 3D Gaussians and a neural SDF under **coarse-to-fine bidirectional geometry supervision**:
-
-- Gaussian depth → guides SDF rays and pixel-wise depth gradients (**DSA**)
-- SDF normals → supervise Gaussian normals and drive densification (**N3A**)
-- **DDC** regulates splitting to ensure memory-efficient refinement
-
-This synergy delivers **precise geometry**, **robust BRDF-lighting decomposition**, and **state-of-the-art** performance on NVS, mesh reconstruction, and relighting tasks.
+We present **COREA**, the first unified framework that jointly learns relightable 3D Gaussians and a Signed Distance Field (SDF) for accurate geometry reconstruction and faithful relighting.
+While recent 3D Gaussian Splatting (3DGS) methods have extended toward mesh reconstruction and physically-based rendering (PBR), their geometry is still learned from 2D renderings, leading to coarse surfaces and unreliable BRDF-lighting decomposition.
+To address these limitations, COREA introduces a **coarse-to-fine bidirectional 3D-to-3D alignment** strategy that allows geometric signals to be learned directly in 3D space.
+Within this strategy, depth provides coarse alignment between the two representations, while depth gradients and normals refine fine-scale structure, and the resulting geometry supports stable BRDF-lighting decomposition.
+A density-control mechanism further stabilizes Gaussian growth, balancing geometric fidelity with memory efficiency.
+Experiments on standard benchmarks demonstrate that COREA achieves superior performance in **novel-view synthesis**, **mesh reconstruction**, and **PBR** within a unified framework.
 
 ---
 
