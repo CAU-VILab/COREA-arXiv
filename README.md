@@ -73,7 +73,7 @@ This synergy delivers **precise geometry**, **robust BRDF-lighting decomposition
 
 ---
 
-## 🏗️ Method Overview
+## 🖼️ Method Overview
 
 <p align="center">
     <img src="assets/pipeline.png" width="92%">
@@ -93,19 +93,6 @@ This synergy delivers **precise geometry**, **robust BRDF-lighting decomposition
 | **N3A** | Supervises Gaussian normals directly in 3D |
 | **DDC** | Regulates densification to control memory growth |
 | **Differentiable PBR** | Accurate BRDF & lighting decomposition |
-
----
-
-## 🚀 Code Release Plan
-
-✔ Project page released  
-✔ arXiv submission completed  
-⬜ Training code  
-⬜ Checkpoints  
-⬜ Evaluation scripts  
-⬜ Data preparation scripts  
-
-> 👀 Expected release: After acceptance to CVPR 2026
 
 ---
 
