@@ -1,8 +1,9 @@
 <div align="center">
-<h2>
-    <img src="assets/taegeuk.png" alt="COREA" width="20"/>
-    COREA
+<h2 align="center" style="font-size:48px; font-weight:900; letter-spacing:-0.5px;">
+  <img src="./assets/taegeuk.png" alt="COREA" width="48" style="vertical-align:middle; margin-right:12px;"/>
+  COREA
 </h2>
+
 
 <div>&nbsp;&nbsp;
     <a href="https://sites.google.com/vilab.cau.ac.kr/jaeyoonlee" target="_blank">Jaeyoon Lee</a><sup>*</sup>&nbsp;
