@@ -70,7 +70,7 @@ Experiments on standard benchmarks demonstrate that COREA achieves superior perf
 </p>
 
 <p align="center">
-    <img src="assets/bidirectional.png" width="80%">
+    <img src="assets/DDC.png" width="80%">
 </p>
 
 ---
@@ -78,7 +78,7 @@ Experiments on standard benchmarks demonstrate that COREA achieves superior perf
 ## 📬 Contact
 
 For questions, please reach out at  
-📧 **leejaeyoon@vilab.cau.ac.kr hjjung@vilab.cau.ac.kr**
+📧 **leejaeyoon@vilab.cau.ac.kr, hjjung@vilab.cau.ac.kr**
 
 ---
 
