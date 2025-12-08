@@ -81,17 +81,6 @@ Experiments on standard benchmarks demonstrate that COREA achieves superior perf
 
 ---
 
-## 🔥 Key Features
-
-| Component | What it does |
-|---|---|
-| **DSA** | Aligns SDF via Gaussian depth + depth gradients |
-| **N3A** | Supervises Gaussian normals directly in 3D |
-| **DDC** | Regulates densification to control memory growth |
-| **Differentiable PBR** | Accurate BRDF & lighting decomposition |
-
----
-
 ## 📬 Contact
 
 For questions, please reach out at  
