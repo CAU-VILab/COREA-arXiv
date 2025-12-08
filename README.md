@@ -79,7 +79,7 @@ Experiments on standard benchmarks demonstrate that COREA achieves superior perf
 
 For questions, please reach out at  
 📧 **leejaeyoon@vilab.cau.ac.kr**
-
+📧 **hjjung@vilab.cau.ac.kr**
 ---
 
 ⭐ If you find this repository helpful, please consider starring it!
