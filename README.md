@@ -49,7 +49,6 @@
 ## 📢 News
 - **Dec 2025** — arXiv submission completed (coming soon)
 - **Project Page launch** — Online with all demos
-- **Code release plan updated**
 
 ---
 
