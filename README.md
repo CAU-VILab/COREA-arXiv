@@ -1,26 +1,19 @@
 <div align="center">
+<h2>COREA</h2>
 
-<a href="https://sites.google.com/vilab.cau.ac.kr/jaeyoonlee" target="_blank">
-Jaeyoon Lee</a><sup>*</sup>&nbsp;
+<div>&nbsp;&nbsp;
+    <a href="https://sites.google.com/vilab.cau.ac.kr/jaeyoonlee" target="_blank">Jaeyoon Lee</a><sup>*</sup>&nbsp;
+    <a href="https://sites.google.com/view/hjjung-homepage/홈" target="_blank">Hojoon Jung</a><sup>*</sup>&nbsp;
+    <a href="https://sites.google.com/vilab.cau.ac.kr/hst/" target="_blank">Sungtae Hwang</a>&nbsp;
+    <a href="https://sites.google.com/view/ozbro/" target="_blank">Jihyong Oh</a><sup>†</sup>&nbsp;
+    <a href="https://sites.google.com/site/jwchoivision/home" target="_blank">Jongwon Choi</a><sup>†</sup>
+</div>
 
-<a href="https://sites.google.com/view/hjjung-homepage/홈" target="_blank">
-Hojoon Jung</a><sup>*</sup>&nbsp;
-
-<a href="https://sites.google.com/vilab.cau.ac.kr/hst/" target="_blank">
-Sungtae Hwang</a>&nbsp;
-
-<a href="https://sites.google.com/view/ozbro/" target="_blank">
-Jihyong Oh</a><sup>†</sup>&nbsp;
-
-<a href="https://sites.google.com/site/jwchoivision/home" target="_blank">
-Jongwon Choi</a><sup>†</sup>
-
-<br>
-
-<sup>*</sup>Equal contribution &nbsp;&nbsp;&nbsp; <sup>†</sup>Corresponding authors  
-<br>
-Chung-Ang University, Seoul, Korea
-
+<div>
+    Chung-Ang University, Seoul, Korea
+</div>
+<div>
+    <sup>*</sup>Equal contribution, <sup>†</sup>Co-corresponding authors
 </div>
 
 <br>
