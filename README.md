@@ -48,8 +48,18 @@
 <br>
 
 <div align="center">
-    <img src="assets/Teaser.png" alt="Teaser" width="92%">
+    <video
+        src="assets/intro.mp4"
+        width="92%"
+        autoplay
+        loop
+        muted
+        playsinline
+    >
+        Your browser does not support the video tag.
+    </video>
 </div>
+
 
 ---
 
