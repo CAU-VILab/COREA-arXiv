@@ -1,8 +1,8 @@
 <div align="center">
-<h2 align="center" style="font-size:48px; font-weight:900; letter-spacing:-0.5px;">
-  <img src="./assets/taegeuk.png" alt="COREA" width="48" style="vertical-align:middle; margin-right:12px;"/>
-  COREA
-</h2>
+<h1>
+    <img src="assets/taegeuk.png" alt="COREA" width="20"/>
+    COREA
+</h1>
 
 
 <div>&nbsp;&nbsp;
