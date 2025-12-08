@@ -1,6 +1,7 @@
 <div align="center">
 <h2>COREA</h2>
-<h3>Coarse-to-Fine 3D Representation Alignment Between Relightable 3D Gaussians and SDF via Bidirectional 3D-to-3D Supervision</h3>
+<h3>Coarse-to-Fine 3D Representation Alignment Between 
+    Relightable 3D Gaussians and SDF via Bidirectional 3D-to-3D Supervision</h3>
 
 <div>&nbsp;&nbsp;
     Jaeyoon Lee<sup>*</sup>&nbsp;
