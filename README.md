@@ -1,7 +1,5 @@
 <div align="center">
 <h2>COREA</h2>
-<h3>Coarse-to-Fine 3D Representation Alignment Between 
-    Relightable 3D Gaussians and SDF via Bidirectional 3D-to-3D Supervision</h3>
 
 <div>&nbsp;&nbsp;
     Jaeyoon Lee<sup>*</sup>&nbsp;
@@ -34,7 +32,8 @@
 
 <div align="center">
     <h4>
-        Official implementation of <b>COREA</b>: A unified framework that jointly learns relightable 3D Gaussians and an SDF via coarse-to-fine bidirectional supervision.
+        Official implementation of "<b>COREA</b>: Coarse-to-Fine 3D Representation Alignment Between 
+    Relightable 3D Gaussians and SDF via Bidirectional 3D-to-3D Supervision."
     </h4>
 </div>
 
