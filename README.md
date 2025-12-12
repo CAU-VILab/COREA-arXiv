@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/badge/%F0%9F%8C%90-Project%20Page-blue" alt="Project Page">
     </a>
     <a href="https://arxiv.org/abs/2512.07107" target="_blank">
-        <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv">
+        <img src="https://img.shields.io/badge/arXiv-2512.07107-b31b1b.svg" alt="arXiv">
     </a>
 </h4>
 </div>
