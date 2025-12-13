@@ -24,7 +24,6 @@
 </div>
 
 <br>
-
 <h4 align="center">
     <a href="https://cau-vilab.github.io/COREA/" target="_blank">
         <img src="https://img.shields.io/badge/%F0%9F%8C%90-Project%20Page-blue" alt="Project Page">
